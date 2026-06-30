@@ -1,8 +1,9 @@
 package main
 
 import (
-	"HoldMyBeer/internal/cli"
 	"os"
+
+	cli "github.com/pl-42/hold_my_beer/internal/cli"
 )
 
 // Entry point for the HoldMyBeer application

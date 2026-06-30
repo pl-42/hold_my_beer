@@ -1,10 +1,11 @@
 package cli
 
 import (
-	"HoldMyBeer/internal"
 	"flag"
 	"fmt"
 	"os"
+
+	internal "github.com/pl-42/hold_my_beer/internal"
 )
 
 // cliCommandHandler defines the signature for command handler functions.
